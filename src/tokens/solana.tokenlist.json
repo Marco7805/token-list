@@ -894,7 +894,7 @@
       "symbol": "BIAD",
       "name": "daib test token",
       "decimals": 6,
-      "logoURI": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/02242929-14bc-4204-ac71-56d855a07078/512_daia.png?X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20211104%2Fus-west-2%2Fs3%2Faws4_request\u0026X-Amz-Date=20211104T051518Z\u0026X-Amz-Expires=86400\u0026X-Amz-Signature=df1424dcb1be408faa45ef6af1f7769edf977da365822e00c34a2150167bfe58\u0026X-Amz-SignedHeaders=host\u0026response-content-disposition=filename%20%3D%22512_daia.png%22",
+      "logoURI": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/02242929-14bc-4204-ac71-56d855a07078/512_daia.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20211104%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211104T051518Z&X-Amz-Expires=86400&X-Amz-Signature=df1424dcb1be408faa45ef6af1f7769edf977da365822e00c34a2150167bfe58&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22512_daia.png%22",
       "extensions": {
         "website": "https://daios.io/"
       }
@@ -3173,7 +3173,7 @@
       "chainId": 101,
       "address": "CS4tNS523VCLiTsGnYEAd6GqfrZNLtA14C98DC6gE47g",
       "symbol": "SPY",
-      "name": "SPDR S\u0026P 500 ETF",
+      "name": "SPDR S&P 500 ETF",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CS4tNS523VCLiTsGnYEAd6GqfrZNLtA14C98DC6gE47g/logo.svg",
       "tags": [
@@ -3314,7 +3314,7 @@
       "chainId": 101,
       "address": "3LjkoC9FYEqRKNpy7xz3nxfnGVAt1SNS98rYwF2adQWB",
       "symbol": "VXX",
-      "name": "iPath B S\u0026P 500 VIX S/T Futs ETN",
+      "name": "iPath B S&P 500 VIX S/T Futs ETN",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3LjkoC9FYEqRKNpy7xz3nxfnGVAt1SNS98rYwF2adQWB/logo.png",
       "tags": [
@@ -34664,7 +34664,7 @@
         "utility-token"
       ],
       "extensions": {
-        "description": "Co-founders hmu -\u003e ryan@kanelabs.com",
+        "description": "Co-founders hmu -> ryan@kanelabs.com",
         "discord": "https://discord.gg/6erTzYChXh",
         "website": "https://fora.co"
       }
@@ -34972,7 +34972,7 @@
       "symbol": "JGR",
       "name": "JAGUAR",
       "decimals": 8,
-      "logoURI": "https://pbs.twimg.com/media/FDi18oAWQAIEdWX?format=jpg\u0026name=240x240",
+      "logoURI": "https://pbs.twimg.com/media/FDi18oAWQAIEdWX?format=jpg&name=240x240",
       "tags": [
         "mem-token"
       ],
@@ -35404,7 +35404,7 @@
       "symbol": "BTT",
       "name": "Beleven Test Token",
       "decimals": 12,
-      "logoURI": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia-exp1.licdn.com%2Fdms%2Fimage%2FC560BAQGT_8JiOehf2Q%2Fcompany-logo_200_200%2F0%2F1553000966716%3Fe%3D2159024400%26v%3Dbeta%26t%3DhL0TXFSFIAtPuEKiA_f6dweSEsOe0TDIbDuH04Kn88Q\u0026imgrefurl=https%3A%2F%2Fua.linkedin.com%2Fcompany%2Fgentledevs---%25D1%2580%25D0%25BE%25D0%25B7%25D1%2580%25D0%25BE%25D0%25B1%25D0%25BA%25D0%25B0-%25D0%25BC%25D0%25BE%25D0%25B1%25D1%2596%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B8%25D1%2585-%25D0%25B4%25D0%25BE%25D0%25B4%25D0%25B0%25D1%2582%25D0%25BA%25D1%2596%25D0%25B2\u0026tbnid=FtHIxqUkOX5DTM\u0026vet=12ahUKEwig672M78X0AhVNCHcKHZ-lB1MQMygBegUIARCVAQ..i\u0026docid=Z-ph3rp8gPo9sM\u0026w=200\u0026h=200\u0026itg=1\u0026q=beleven\u0026ved=2ahUKEwig672M78X0AhVNCHcKHZ-lB1MQMygBegUIARCVAQ",
+      "logoURI": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia-exp1.licdn.com%2Fdms%2Fimage%2FC560BAQGT_8JiOehf2Q%2Fcompany-logo_200_200%2F0%2F1553000966716%3Fe%3D2159024400%26v%3Dbeta%26t%3DhL0TXFSFIAtPuEKiA_f6dweSEsOe0TDIbDuH04Kn88Q&imgrefurl=https%3A%2F%2Fua.linkedin.com%2Fcompany%2Fgentledevs---%25D1%2580%25D0%25BE%25D0%25B7%25D1%2580%25D0%25BE%25D0%25B1%25D0%25BA%25D0%25B0-%25D0%25BC%25D0%25BE%25D0%25B1%25D1%2596%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B8%25D1%2585-%25D0%25B4%25D0%25BE%25D0%25B4%25D0%25B0%25D1%2582%25D0%25BA%25D1%2596%25D0%25B2&tbnid=FtHIxqUkOX5DTM&vet=12ahUKEwig672M78X0AhVNCHcKHZ-lB1MQMygBegUIARCVAQ..i&docid=Z-ph3rp8gPo9sM&w=200&h=200&itg=1&q=beleven&ved=2ahUKEwig672M78X0AhVNCHcKHZ-lB1MQMygBegUIARCVAQ",
       "tags": [
         "meme-coin",
         "meme-token",
@@ -42411,7 +42411,7 @@
       "chainId": 101,
       "address": "GZhRs3M3yzLAPCcRqgdHsZzLA6KU5ijWqgm1TzfP32P9",
       "symbol": "DMMY",
-      "name": "D\u0026M Token",
+      "name": "D&M Token",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/donovanm21/token-list/main/assets/mainnet/GZhRs3M3yzLAPCcRqgdHsZzLA6KU5ijWqgm1TzfP32P9/logo.png",
       "tags": [
@@ -45776,7 +45776,7 @@
       "symbol": "FOR",
       "name": "FAVORITE",
       "decimals": 8,
-      "logoURI": "https://pbs.twimg.com/media/FGhR6SMX0A4ed8o?format=jpg\u0026name=360x360",
+      "logoURI": "https://pbs.twimg.com/media/FGhR6SMX0A4ed8o?format=jpg&name=360x360",
       "tags": [
         "game-token"
       ],
@@ -52978,7 +52978,7 @@
       "symbol": "ARVX",
       "name": "Arvix Coin",
       "decimals": 0,
-      "logoURI": "https://avatars.githubusercontent.com/u/15823883?s=400\u0026u=01e5237b6ed37d8b2e142c02688ed3c38c6d62ac\u0026v=4",
+      "logoURI": "https://avatars.githubusercontent.com/u/15823883?s=400&u=01e5237b6ed37d8b2e142c02688ed3c38c6d62ac&v=4",
       "tags": [
         "social-token"
       ]
@@ -63918,7 +63918,7 @@
       "symbol": "PLC",
       "name": "Palastine Coin",
       "decimals": 0,
-      "logoURI": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnKolKlwpw-Gp_UXWlgyFKWAOlf3LxYHODzw\u0026usqp=CAU",
+      "logoURI": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnKolKlwpw-Gp_UXWlgyFKWAOlf3LxYHODzw&usqp=CAU",
       "tags": [
         "social-token"
       ]
@@ -66105,7 +66105,7 @@
         "altcoin"
       ],
       "extensions": {
-        "description": "VVS is an invite- \u0026 mobile-only, engage-to-earn social media platform where content creators can drop exclusive experiences, merchandise, and digital collectibles in exchange for cryptocurrency.",
+        "description": "VVS is an invite- & mobile-only, engage-to-earn social media platform where content creators can drop exclusive experiences, merchandise, and digital collectibles in exchange for cryptocurrency.",
         "twitter": "https://twitter.com/earnVVS",
         "website": "https://www.vvs.io"
       }
@@ -66930,7 +66930,7 @@
       "symbol": "ASGHAR",
       "name": "Asghar Coin",
       "decimals": 0,
-      "logoURI": "https://avatars.githubusercontent.com/u/53191495?s=400\u0026u=3e937145da66f98a3651c3d59a0aac4f6f69a893\u0026v=4",
+      "logoURI": "https://avatars.githubusercontent.com/u/53191495?s=400&u=3e937145da66f98a3651c3d59a0aac4f6f69a893&v=4",
       "tags": [
         "social-token"
       ]
@@ -68389,7 +68389,7 @@
         "gaming"
       ],
       "extensions": {
-        "description": "The funniest decentralized meme token for joy, profits and charity | NFT \u0026 Gaming",
+        "description": "The funniest decentralized meme token for joy, profits and charity | NFT & Gaming",
         "website": "https://angrykittytoken.com/"
       }
     },
@@ -72629,7 +72629,7 @@
       "symbol": "RZR",
       "name": "Rickemizer",
       "decimals": 9,
-      "logoURI": "https://avatars.githubusercontent.com/u/8443515?s=96\u0026v=4",
+      "logoURI": "https://avatars.githubusercontent.com/u/8443515?s=96&v=4",
       "tags": [
         "social-token"
       ]
@@ -84513,7 +84513,7 @@
         "community-token"
       ],
       "extensions": {
-        "description": "Faviont is an NFT based marketplace for you to buy, sell, explorer and curated a Fashion including Digital Fashion \u0026 Metaverse Fashion on Solana Blockchain.",
+        "description": "Faviont is an NFT based marketplace for you to buy, sell, explorer and curated a Fashion including Digital Fashion & Metaverse Fashion on Solana Blockchain.",
         "discord": "https://discord.gg/T6mVYKeVYc",
         "twitter": "https://twitter.com/FaviontOfficial",
         "website": "https://faviont.io/"
@@ -85727,7 +85727,7 @@
       "symbol": "FSH",
       "name": "Fish Token",
       "decimals": 0,
-      "logoURI": "https://media.discordapp.net/attachments/926535226820276264/934150203496337428/fish_token.png?width=675\u0026height=675",
+      "logoURI": "https://media.discordapp.net/attachments/926535226820276264/934150203496337428/fish_token.png?width=675&height=675",
       "tags": [
         "utility-token"
       ],
@@ -86535,7 +86535,7 @@
       "symbol": "WWGT",
       "name": "We Want Green Token",
       "decimals": 9,
-      "logoURI": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/271996191_137942348645759_6859222909034109708_n.jpg?_nc_cat=111\u0026ccb=1-5\u0026_nc_sid=09cbfe\u0026_nc_ohc=k2HG4ZGkHsMAX96YtDP\u0026_nc_ht=scontent-iad3-1.xx\u0026oh=00_AT_KCZncS8TJAgade6-_NtFkZzJeXWe4VtIX_KaRY9Po3Q\u0026oe=61F21F1E"
+      "logoURI": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/271996191_137942348645759_6859222909034109708_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=k2HG4ZGkHsMAX96YtDP&_nc_ht=scontent-iad3-1.xx&oh=00_AT_KCZncS8TJAgade6-_NtFkZzJeXWe4VtIX_KaRY9Po3Q&oe=61F21F1E"
     },
     {
       "chainId": 101,
@@ -93900,7 +93900,7 @@
       ],
       "extensions": {
         "blog": "https://blog.myquantex.com",
-        "description": "QTX is the native exchange token on the Quantex (formerly Cryptiswap), which is a global crypto exchange featuring an instant swap platform \u0026 an advanced trading platform. Customers choose between taking custody of their own funds on the non-custodial swap platform, or allow us to take custody on the trading platform.",
+        "description": "QTX is the native exchange token on the Quantex (formerly Cryptiswap), which is a global crypto exchange featuring an instant swap platform & an advanced trading platform. Customers choose between taking custody of their own funds on the non-custodial swap platform, or allow us to take custody on the trading platform.",
         "reddit": "https://www.reddit.com/user/CryptiSwap",
         "twitter": "https://twitter.com/Quantex_Global",
         "website": "https://myquantex.com",
@@ -95009,7 +95009,7 @@
       "chainId": 101,
       "address": "8Esq5cPGK4ifsm8sHLvnWJUEhupKXyyg8SqoE4B79wos",
       "symbol": "MNM",
-      "name": "Mark \u0026 Myia C0in",
+      "name": "Mark & Myia C0in",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/darkjumper5/crypto/main/logo.png",
       "tags": [
@@ -99908,7 +99908,7 @@
       ],
       "extensions": {
         "coingeckoId": "nooft",
-        "description": "NOOFT Project develops a Search Engine \u0026 Analytics platform for NFTs ",
+        "description": "NOOFT Project develops a Search Engine & Analytics platform for NFTs ",
         "facebook": "https://www.facebook.com/nooftproject",
         "twitter": "https://twitter.com/NooftProject",
         "website": "https://nooft.io/"
@@ -108122,7 +108122,7 @@
       "chainId": 101,
       "address": "4GJZyEZhqsHpKbWUtMGSsLYCpgDB3izrEcU61UJxBfMY",
       "symbol": "KUA",
-      "name": "KOC\u0026U Awards",
+      "name": "KOC&U Awards",
       "decimals": 4,
       "logoURI": "https://i.ibb.co/CQRTSHk/KUA-Logo.png",
       "tags": [
@@ -114426,7 +114426,7 @@
         "K-Drama"
       ],
       "extensions": {
-        "description": "Community token for those who love k-pop, k-dramas, Chicken \u0026 Beer, etc...",
+        "description": "Community token for those who love k-pop, k-dramas, Chicken & Beer, etc...",
         "discord": "https://discord.gg/Q7PgF2S3W5",
         "twitter": "https://twitter.com/Chimaek_Token",
         "website": "https://chi-maek.com"
@@ -118422,7 +118422,7 @@
       "chainId": 101,
       "address": "WLTFhXCQPrGXq22PmbbdFojY9M19NPePorrW4NLaH1g",
       "symbol": "RMWL",
-      "name": "R\u0026M Whitelist token",
+      "name": "R&M Whitelist token",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLTFhXCQPrGXq22PmbbdFojY9M19NPePorrW4NLaH1g/logo.png"
     },
@@ -132152,7 +132152,7 @@
         "utility-token"
       ],
       "extensions": {
-        "description": "Digital Art of Ancient Gods \u0026 Mythical Creatures from Antiquity",
+        "description": "Digital Art of Ancient Gods & Mythical Creatures from Antiquity",
         "discord": "https://discord.com/invite/9JsV7ZV3",
         "facebook": "https://www.facebook.com/ThePantheonArtCollection",
         "twitter": "https://twitter.com/ThePantheonArt"
@@ -138019,7 +138019,7 @@
         "utility-token"
       ],
       "extensions": {
-        "description": "Monkai are the first Multi-chain Generative GIF NFTs on ETH \u0026 SOL, bringing new DeFi stake + farm tokenomics to the Blockchain",
+        "description": "Monkai are the first Multi-chain Generative GIF NFTs on ETH & SOL, bringing new DeFi stake + farm tokenomics to the Blockchain",
         "discord": "https://discord.gg/monkai",
         "twitter": "https://twitter.com/monkainft",
         "website": "https://monkainft.com/"
@@ -143920,7 +143920,7 @@
       "chainId": 101,
       "address": "6wcWAqCEmxQkEK6hPEsyvTpiaFFCENww6gxqMTq8YBHE",
       "symbol": "TTST",
-      "name": "T\u0026T Socialist Party Token",
+      "name": "T&T Socialist Party Token",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/xxmafiaxxx/doobietokens/main/TTSP.png",
       "extensions": {
@@ -148665,7 +148665,7 @@
         "social-token"
       ],
       "extensions": {
-        "description": "Hi! My name is Alex Daniel and that's my token! Nice to meet you! \u003c3"
+        "description": "Hi! My name is Alex Daniel and that's my token! Nice to meet you! <3"
       }
     },
     {
@@ -156163,7 +156163,7 @@
       "symbol": "CHUMS",
       "name": "CHUMS",
       "decimals": 6,
-      "logoURI": "https://sun9-88.userapi.com/s/v1/if2/KPH5miDn6Uf5zcFpWjmVZwPwJcSZfipH-9ra3x8yJ-OCQ0bwyjKCNgWP3XQvTniNoLIeZpMqpG49AbFYc5Bmc1qB.jpg?size=2560x1919\u0026quality=96\u0026type=album",
+      "logoURI": "https://sun9-88.userapi.com/s/v1/if2/KPH5miDn6Uf5zcFpWjmVZwPwJcSZfipH-9ra3x8yJ-OCQ0bwyjKCNgWP3XQvTniNoLIeZpMqpG49AbFYc5Bmc1qB.jpg?size=2560x1919&quality=96&type=album",
       "tags": [
         "GENERAL",
         "FARMING"
@@ -160988,7 +160988,7 @@
       "symbol": "BB",
       "name": "Baby Catlien Token",
       "decimals": 0,
-      "logoURI": "https://media.discordapp.net/attachments/941805628354093118/971189365634113577/517.png?width=670\u0026height=670",
+      "logoURI": "https://media.discordapp.net/attachments/941805628354093118/971189365634113577/517.png?width=670&height=670",
       "tags": [
         "utility-token"
       ]
@@ -161918,7 +161918,7 @@
         "utility-token"
       ],
       "extensions": {
-        "description": "Creative Collective. Hip Hop, R\u0026B, World Sounds y más. Es Otra Onda SWERV , token value 1usdt = 10 SWERV tokens",
+        "description": "Creative Collective. Hip Hop, R&B, World Sounds y más. Es Otra Onda SWERV , token value 1usdt = 10 SWERV tokens",
         "discord": "https://discord.gg/3yNwFyPzUb",
         "instagram": "https://www.ins.com/swervba/",
         "website": "https://linktr.ee/Swervba"
@@ -167301,7 +167301,7 @@
       "symbol": "FUJILIST",
       "name": "Fujilist Token",
       "decimals": 0,
-      "logoURI": "https://i.imgur.com/Ve9wr7a_d.webp?maxwidth=760\u0026fidelity=grand",
+      "logoURI": "https://i.imgur.com/Ve9wr7a_d.webp?maxwidth=760&fidelity=grand",
       "tags": [
         "DeFi"
       ]
@@ -172028,7 +172028,7 @@
         "facebook": "https://www.facebook.com/CarlosVerbelen",
         "github": "https://github.com/WorldEconomic-Forum",
         "instagram": "https://www.instagram.com/moonbootscapital/",
-        "linkedin": "https://search.brave.com/search?q=Carlos+Verbelen\u0026source=desktop",
+        "linkedin": "https://search.brave.com/search?q=Carlos+Verbelen&source=desktop",
         "medium": "https://joinentre.com/?referredBy=el0nmusk",
         "twitter": "https://twitter.com/Davos",
         "website": "https://linktr.ee/Zues369"
@@ -173703,7 +173703,7 @@
         "facebook": "https://www.facebook.com/CarlosVerbelen",
         "github": "https://github.com/facebooktoken",
         "instagram": "https://www.instagram.com/moonbootscapital/",
-        "linkedin": "https://search.brave.com/search?q=Carlos+Verbelen\u0026source=desktop",
+        "linkedin": "https://search.brave.com/search?q=Carlos+Verbelen&source=desktop",
         "medium": "https://joinentre.com/?referredBy=el0nmusk",
         "twitter": "https://twitter.com/dionysus3301",
         "website": "https://linktr.ee/Zues369"
@@ -176257,7 +176257,7 @@
       ],
       "extensions": {
         "twitter": "https://twitter.com/Charactbit",
-        "website": "https://raydium.io/liquidity/add/?coin0=YtfMZ4jg2ubdz4GasY86iuGjHdo5rCPJnFqgSf8gxAz\u0026coin1=EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\u0026fixed=coin0\u0026ammId=a5sAFsEMzNWZMQViXZWQhg11Wp4QxMS8fCSEYr18Qxi"
+        "website": "https://raydium.io/liquidity/add/?coin0=YtfMZ4jg2ubdz4GasY86iuGjHdo5rCPJnFqgSf8gxAz&coin1=EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v&fixed=coin0&ammId=a5sAFsEMzNWZMQViXZWQhg11Wp4QxMS8fCSEYr18Qxi"
       }
     },
     {
@@ -177895,7 +177895,7 @@
         "facebook": "https://www.facebook.com/CarlosVerbelen",
         "github": "https://github.com/Universal-Zetetic-Society",
         "instagram": "https://www.instagram.com/moonbootscapital/",
-        "linkedin": "https://search.brave.com/search?q=Carlos+Verbelen\u0026source=desktop",
+        "linkedin": "https://search.brave.com/search?q=Carlos+Verbelen&source=desktop",
         "medium": "https://joinentre.com/?referredBy=el0nmusk",
         "twitter": "https://twitter.com/dionysus3301",
         "website": "https://linktr.ee/Zues369"
@@ -179066,7 +179066,7 @@
         "bridgeContract": "https://bscscan.com/address/0xb6f6d86a8f9879a9c87f643768d9efc38c1da6e7",
         "coingeckoId": "wowswap",
         "coinmarketcap": "https://coinmarketcap.com/ru/currencies/wowswap/",
-        "description": "WOWswap is decentralized leverage trading \u0026 lending protocol that runs on Ethereum, BNB Chain, Avalanche, IoTeX, Solana and Polygon.",
+        "description": "WOWswap is decentralized leverage trading & lending protocol that runs on Ethereum, BNB Chain, Avalanche, IoTeX, Solana and Polygon.",
         "discord": "https://discord.gg/KFQa6pECmY",
         "medium": "https://wowswap-io.medium.com/",
         "reddit": "https://www.reddit.com/r/Wowswap_io/",
@@ -179461,7 +179461,7 @@
         "social-token"
       ],
       "extensions": {
-        "description": "The FOOD \u0026 Backbone to the Kuma Kingdom",
+        "description": "The FOOD & Backbone to the Kuma Kingdom",
         "website": "https://okaykumas.com"
       }
     },
@@ -182079,7 +182079,7 @@
         "discord": "https://discord.gg/Rojan",
         "facebook": "https://facebook.com/RojankhzxrOP",
         "instagram": "https://instagram.com/Rojankhzxr",
-        "linkedin": "https://search.brave.com/search?q=Carlos+Verbelen\u0026source=desktop",
+        "linkedin": "https://search.brave.com/search?q=Carlos+Verbelen&source=desktop",
         "medium": "https://joinentre.com/?referredBy=el0nmusk",
         "twitter": "https://twitter.com/Rojankhzxr",
         "website": "https://linktr.ee/Zues369"
@@ -182141,7 +182141,7 @@
         "discord": "https://www.twitch.tv/coscu",
         "facebook": "https://www.youtube.com/user/Shacoscu",
         "instagram": "https://www.instagram.com/martinpdisalvo/",
-        "linkedin": "https://search.brave.com/search?q=Carlos+Verbelen\u0026source=desktop",
+        "linkedin": "https://search.brave.com/search?q=Carlos+Verbelen&source=desktop",
         "medium": "https://joinentre.com/?referredBy=el0nmusk",
         "twitter": "https://twitter.com/Martinpdisalvo",
         "website": "https://linktr.ee/Zues369"
@@ -182361,7 +182361,7 @@
         "discord": "https://www.youtube.com/channel/UCyc2NPlfZEwKZnqwFpjUZpA?view_as=subscriber",
         "facebook": "https://www.facebook.com/ValentinaKryp",
         "instagram": "https://www.instagram.com/vkryp",
-        "linkedin": "https://search.brave.com/search?q=Carlos+Verbelen\u0026source=desktop",
+        "linkedin": "https://search.brave.com/search?q=Carlos+Verbelen&source=desktop",
         "medium": "https://joinentre.com/?referredBy=el0nmusk",
         "twitter": "https://twitter.com/VKryp",
         "website": "https://linktr.ee/Zues369"
@@ -182457,7 +182457,7 @@
         "discord": "https://t.co/hKwN9HIpR9",
         "facebook": "https://www.twitch.tv/uberdanger",
         "instagram": "https://t.co/f9BqQSXJx1",
-        "linkedin": "https://search.brave.com/search?q=Carlos+Verbelen\u0026source=desktop",
+        "linkedin": "https://search.brave.com/search?q=Carlos+Verbelen&source=desktop",
         "medium": "https://joinentre.com/?referredBy=el0nmusk",
         "twitter": "https://twitter.com/UberDanger",
         "website": "https://linktr.ee/Zues369"
@@ -184615,6 +184615,22 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "os4515111ZBm6XYPTLXPLzzfv9GzyGKcRCV6oXSf7Dw",
+      "symbol": "USDT",
+      "name": "Tether",
+      "decimals": 6,
+      "logoURI": "https://vcmyfkb42nwc3riziz6d6oy4tnlbhdzgdxseozoh4nqe7ssdpgaa.arweave.net/qJmCqDzTbC3FGUZ8Pzscm1YTjyYd5Edlx-NgT8pDeYA?ext=png",
+      "tags": [
+        "stablecoin",
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://tether.to",
+        "description": "Tether (USDT) stablecoin on Solana"
+      }
     }
   ],
   "version": {
